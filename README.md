@@ -33,7 +33,7 @@ TEKDI/
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/Arjun618/DMP-25-Tekdi-POC.git
 cd TEKDI
 ```
 
