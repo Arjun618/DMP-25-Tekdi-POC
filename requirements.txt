@@ -1,0 +1,13 @@
+# Requirements for Sunbird ALL - Assisted Language Learning (PoC)
+
+# Backend dependencies
+fastapi==0.95.2
+uvicorn==0.22.0
+vosk==0.3.45
+
+# Frontend dependencies
+streamlit==1.25.0
+requests==2.31.0
+sounddevice==0.4.6
+wave==0.0.2
+
